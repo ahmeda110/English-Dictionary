@@ -4,7 +4,7 @@ My First Python App - Working with Structure Controls, Functions, Databases, JSO
 
 This is a simple command line application at the moment which I intend to contruct an interface and expand on later on. However, upon running the app, you will be promted to enter a word. This could be any english word which you want to know the definiton for. For example:
 
-                            Word: rainnnn
+                            Word: rain
 
                             Below are the defenition(s) found for 'rain':
                                     - Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres.      
