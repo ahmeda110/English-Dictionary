@@ -1,5 +1,4 @@
 from difflib import get_close_matches as GCM
-from re import X
 import mysql.connector as SQL
 #import json as JSON
 
